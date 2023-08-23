@@ -2,15 +2,6 @@
 
 Pardavineja automobilius.
 
--   client
-    -   react
-        -   layout
-            -   header
-            -   outlet
-            -   footer
-        -   pages:
-            -   pagrindinis
-            -   404
 -   register:
     -   react page
     -   form + validacija + fetch
