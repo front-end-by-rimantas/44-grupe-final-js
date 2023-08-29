@@ -2,12 +2,6 @@
 
 Pardavineja automobilius.
 
--   admin: automobiliu tipu CRUD
-    -   add form: pavadinimas
-    -   table + button: edit, delete
-    -   edit form
--   admin: pardaveju CRUD
-    -   table + button: blokuoti, atblokuoti
 -   pardavejas: automobiliu CRUD
     -   add form: pavadinimas, spalva, tipas, kaina, ...
     -   table + button: edit, delete
